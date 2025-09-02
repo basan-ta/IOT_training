@@ -2,8 +2,8 @@
 
 **Institution:** Mechi Multiple Campus, Jhapa  
 **Conducted by:** Basanta Shrestha, Sudip Parajuli : BE in Electronics, Communication and Inforamation Technology
-**In collaboration with:** Numa Digital Farm, Biratnagar  
 **Duration:** 25 AUG, 2025 to 31 AUG, 2025
+**In collaboration with:** Numa Digital Farm, Biratnagar  
 
 ## 📖 Overview
 
